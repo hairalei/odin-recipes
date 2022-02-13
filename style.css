@@ -17,7 +17,9 @@ body {
   text-align: center;
   background-color: #7ed56f;
 
-  padding: 5%;
+  /* padding: 5%; */
+  width: 95vh;
+  margin: 0 auto;
 }
 
 ul li,
